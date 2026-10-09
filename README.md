@@ -11,7 +11,7 @@ A lightweight, responsive web application deployed using Git version control and
 ## 📌 Project Overview
 
 - **Internship:** Elevate Labs DevOps Internship
-- **Task:** Task 6 — Host a Static Website with GitHub Pages
+- **Task:** Task 5 — Host a Static Website with GitHub Pages
 - **Live Website URL:** [https://cloudwithpreetham.github.io/static-website-github-pages/](https://cloudwithpreetham.github.io/static-website-github-pages/)
 - **GitHub Repository:** [https://github.com/cloudwithpreetham/static-website-github-pages](https://github.com/cloudwithpreetham/static-website-github-pages)
 - **Primary Tools:** Git, GitHub, GitHub Pages (CDN hosting), HTML5, CSS3
